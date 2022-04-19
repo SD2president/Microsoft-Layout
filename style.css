@@ -1,0 +1,41 @@
+span {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+body {
+    text-align: center;
+    font-size: large;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain
+}
+
+#Paladin{
+    width: 250px;
+}
+
+#Rogue{
+    width: 200px;
+    height: 180px;
+}
+
+#Wizard{
+    width: 250px;
+}
+
+#Barbarian{
+    width: 250px;
+}
+
+#pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
